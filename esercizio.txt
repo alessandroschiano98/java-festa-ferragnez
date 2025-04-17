@@ -1,4 +1,4 @@
-Creare un progetto java-festa-ferragnez con il package com.ferragnez.party, a cui aggiungere la classe CheckGuest
+Creare un progetto java-festa-ferragnez con il package com.ferragnez.party, a cui aggiungere la classe CheckGuest [FATTO]
 
 Nel programma bisogna:
 
@@ -11,4 +11,5 @@ Nel programma bisogna:
 Se avete usato il ciclo for per cercare il nome nella lista nella consegna base, implementare lo stesso programma usando il ciclo while, e viceversa
 Buon lavoro e buone feste di Pasqua! 
 
-
+Lista invitati:
+Dua Lipa, Paris Hilton, Manuel Agnelli, J-Ax, Francesco Totti, Ilary Blasi, Bebe Vio, Luis, Pardis Zarei, Martina Maccherone, Rachel Zeilic
