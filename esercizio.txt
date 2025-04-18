@@ -2,9 +2,9 @@ Creare un progetto java-festa-ferragnez con il package com.ferragnez.party, a cu
 
 Nel programma bisogna:
 
-1)creare e inizializzare l’array contenente i nomi degli invitati
-2)chiedere all’utente come si chiama
-3)verificare che il nome sia presente nella lista
+1)creare e inizializzare l’array contenente i nomi degli invitati [FATTO]
+2)chiedere all’utente come si chiama [FATTO]
+3)verificare che il nome sia presente nella lista [FATTO]
 4)lasciarlo entrare o rispedirlo cortesemente da dove è venuto:
 
 [Bonus]
